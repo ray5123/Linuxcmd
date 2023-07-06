@@ -1,8 +1,8 @@
-# Git Cheatsheet By Bishworaj Poudel
+# Git Cheatsheet 
 
 ##### For Config:
-=> git config --global user.name "Bishworaj Poudel" 
-=> git config --global user.email "iambrp.tech@gmail.com"
+=> git config --global user.name "Rajan shrestha" 
+=> git config --global user.email "put your email here"
 
 ##### To View  user.name and email
 git config --list 
